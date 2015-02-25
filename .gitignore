@@ -1,0 +1,9 @@
+gen/*
+bin/*
+project.properties
+.settings/*
+.classpath
+.project
+*~
+*.log
+*.exe
